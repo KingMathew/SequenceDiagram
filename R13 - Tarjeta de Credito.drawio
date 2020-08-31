@@ -1,1 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T23:08:24.673Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="WjNLvgIgLpA56sL1Qfkk" version="13.6.5" type="github"><diagram id="HU6HF3A5RPhw-zDrLY1I" name="Page-1">7Vtdc5s6EP01frwdPgw4j7EdJ51pppm4TWb6JkABTQSiQsRJf31XgDEgxyTY5KYz5MGGlbSs9hytVhs8MRfR8yVHSXjNfEwnhuY/T8zlxDD0qWHDl5S8FBLH0QpBwIlfdtoJ1uQPLoXbbhnxcdroKBijgiRNocfiGHuiIUOcs02z2wOjzacmKMCKYO0hqkrviS/CQjoznJ38CpMg3D5Zt8+KlghtO5czSUPks01NZF5MzAVnTBRX0fMCU+m8rV+KcatXWivDOI7FmwZknpv+WDz8+moZV3f3oR4vv/9nlNY+IZqVMy6tFS9bF3CWxT6WWrSJOd+EROB1gjzZugHQQRaKiMKdDpeqVaWhT5gL/FwTlVZeYhZhwV+gy6bmYLP0Wlhz7mzrSlSCGlRjd/OGi3Lq73CDPlXc8DPFXHEFYJjIyyyi38gDpiSGuznMVhCPJCifMrSde4Jx2YA5AQNBkbmkZf+bnazLl8BpgWAIr+4pRUlK3NwcCQbHXsZT8oRvcVosHSmVriZA4XNKghhkgknFKTyHxMEPebM0bZCwTEiLFtXS0Y4EsGydWsWIcslvUavBa+xB19SGQtdQwF1HABmIzpMEPr9+X78V6f8H0L1A7ZalVFVFFy3XGxGvvKbIxXSOvMcgH7BgVFJzGbN8Qqng7LGKbFLRA9i4QhGhEr07zH0Uo1JcRmcdoJ+jklse0CSf+gl4UwX914mja3uY40yHYo7ZHR1r8CaMxCI3wZpPrGWLL4yLkAUsRrTOmGZw/YwoHlpRfUNCBWMDWhVZezBk1YAvvYtjf4wEnyASTO3PFgmsMRIcXEf/biSwFWQvEvTisTEQfIJAYJ99tkDgjIHg4DL6dwOBehReYyoXl6GxRBAWTwybghVzFw6GdiCvCsjAOxQJBN/XOM4O0aF9MnOZECyCBkg8zmW1Qsoo8x478X0jmtgP8Lo0BVOXbS52gnkugIatVYeWrFR0EFWOwQcQpRqj9mFUDr2RK2PHBqe5znX77MvMbCpJWcY9XI6rFzpaqoxpty6BeICFoivnTTWpI+oJ2vFcugIrRi6dgEvGtsj1biJZHYqGZpGusAj2+zSTvNBSzJ+IJ6/ABPj8eftNuvamSF3a5HoCVaskE9eAOHhuhfMU5x67dwRvRpb1YZkxa7HjzOhHM0vrUPQKzcD96KXWrcw1hiCiWkGDZDQBLmKFeSOV3k+lNgNMu2/EmnUoGjpijQWz959xWruMvveM85GJsK4WO9YheBlMwi58FnvGuOKP2TxaOerUaoH51hVvW4f1DL3g1erJiuTD/CKL3ZJEa6W3NopkJSR206TCYSTRUXmu5WhftNqf3o9RbWpazgdTSq2wLCgBeA3NzQB6ODqBQfbvTP7jfL4isD+QP4jvRGNoOopVrYhin52GVa1drirsfRSr1OrOLfawdJOh3bBUXOM0le+C1Mn1sI9cI6d6RCqzib6j96XRrEPRwDQy1MJON40oSkX+ntHIopOyyG6/MdKXRYqioVmkFnauiC9J46LGRjey5PjU2jZ7ssTp0DM0SdSiy6VMpMO8Lqwh+erSyI/j+eGY05PwQ9EzND/UWkuVJzejyMiVE52wprO+G077uN9WNDRX1Ned8lhyNcaSk8YSSz9NGUfRM/TpaKbwozutBYPWgnHsL4uKzpjbnjC3tYxZz1DTrgq1FfWmEtzufq1QdN/95sO8+As=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-31T04:43:43.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="K9rtt_2BETiQl6GZzhe7" version="13.6.5" type="github">
+  <diagram id="HU6HF3A5RPhw-zDrLY1I" name="Page-1">
+    <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry width="830" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-14" value="User" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="45" y="20" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-2" value="Smart App IOS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="210" y="20" width="100" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1ucbsTCfZI52HVWh1nDO-2" vertex="1">
+          <mxGeometry x="45" y="100" width="10" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-4" value="Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="460" y="20" width="100" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1ucbsTCfZI52HVWh1nDO-4" vertex="1">
+          <mxGeometry x="45" y="100" width="10" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-9" value="Select option&lt;br&gt;meter plata Menu" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="169.83" as="sourcePoint" />
+            <mxPoint x="240" y="169.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-10" value="Select option&lt;br&gt;meter plata Home" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="229" as="sourcePoint" />
+            <mxPoint x="250" y="229" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-11" value="Consume service get URL ePayco&lt;br&gt;v1/putMoney/epaycoWebView" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="292" as="sourcePoint" />
+            <mxPoint x="500" y="292" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-12" value="Response URL ePayco" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="369" as="sourcePoint" />
+            <mxPoint x="280" y="369" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="50" y="120" width="10" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-15" value="Show web View ePayco" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="450" as="sourcePoint" />
+            <mxPoint x="65" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-16" value="Fill data ePayco meter plata&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="570.0000000000001" as="sourcePoint" />
+            <mxPoint x="240" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-17" value="Click button &quot;Finalizar&quot; ePayco" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="690.0000000000001" as="sourcePoint" />
+            <mxPoint x="250" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-21" value="Hide back button" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="630" as="sourcePoint" />
+            <mxPoint x="70" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-22" value="Go home app" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="734" as="sourcePoint" />
+            <mxPoint x="70" y="734" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-23" value="Click back button app" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="480" as="sourcePoint" />
+            <mxPoint x="240" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ucbsTCfZI52HVWh1nDO-24" value="Go Home app" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="510" as="sourcePoint" />
+            <mxPoint x="65" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
