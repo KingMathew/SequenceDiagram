@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T05:33:11.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="QKOJCZBw8Sq2mEHvjIDR" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T05:50:47.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="3UpzdjpC2XU9QDk3q5_f" version="13.6.5" type="github">
   <diagram id="HU6HF3A5RPhw-zDrLY1I" name="Page-1">
-    <mxGraphModel dx="1185" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1ucbsTCfZI52HVWh1nDO-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry width="630" height="2300" as="geometry" />
+          <mxGeometry width="790" height="2850" as="geometry" />
         </mxCell>
         <mxCell id="1ucbsTCfZI52HVWh1nDO-14" value="User" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="45" y="20" width="20" height="300" as="geometry" />
         </mxCell>
         <mxCell id="1ucbsTCfZI52HVWh1nDO-2" value="Smart App IOS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="210" y="20" width="100" height="2250" as="geometry" />
+          <mxGeometry x="210" y="20" width="100" height="2790" as="geometry" />
         </mxCell>
         <mxCell id="1ucbsTCfZI52HVWh1nDO-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1ucbsTCfZI52HVWh1nDO-2" vertex="1">
-          <mxGeometry x="45" y="100" width="10" height="2150" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="2690" as="geometry" />
         </mxCell>
         <mxCell id="1ucbsTCfZI52HVWh1nDO-4" value="Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="460" y="20" width="100" height="2240" as="geometry" />
+          <mxGeometry x="460" y="20" width="100" height="2190" as="geometry" />
         </mxCell>
         <mxCell id="1ucbsTCfZI52HVWh1nDO-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1ucbsTCfZI52HVWh1nDO-4" vertex="1">
-          <mxGeometry x="45" y="100" width="10" height="2140" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="2090" as="geometry" />
         </mxCell>
         <mxCell id="1ucbsTCfZI52HVWh1nDO-9" value="Click&amp;nbsp; button &lt;br&gt;&quot;Abrir Productos&quot; in Home" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1ucbsTCfZI52HVWh1nDO-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="120" width="10" height="2150" as="geometry" />
+          <mxGeometry x="50" y="120" width="10" height="2690" as="geometry" />
         </mxCell>
         <mxCell id="1ucbsTCfZI52HVWh1nDO-15" value="Show screen &lt;br&gt;&quot;Apertura de productos&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -112,74 +112,165 @@
         </mxCell>
         <mxCell id="3u4s2S24RbVyFO70V5Bj-16" value="On click&amp;nbsp; option&amp;nbsp;&lt;br&gt;&quot;Tarjeta de Crédito Movil&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65" y="1520" as="sourcePoint" />
-            <mxPoint x="235" y="1520" as="targetPoint" />
+            <mxPoint x="65" y="2030" as="sourcePoint" />
+            <mxPoint x="235" y="2030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3u4s2S24RbVyFO70V5Bj-17" value="Open micro application &lt;br&gt;&quot;Tarjeta de Crédito Davivienda&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="236" y="1560" as="sourcePoint" />
-            <mxPoint x="76" y="1560" as="targetPoint" />
+            <mxPoint x="236" y="2070" as="sourcePoint" />
+            <mxPoint x="76" y="2070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3u4s2S24RbVyFO70V5Bj-18" value="On click&amp;nbsp; option&amp;nbsp;&lt;br&gt;&quot;Tarjeta Virtual&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65" y="1640.33" as="sourcePoint" />
-            <mxPoint x="235" y="1640.33" as="targetPoint" />
+            <mxPoint x="65" y="1470.1599999999999" as="sourcePoint" />
+            <mxPoint x="235" y="1470.1599999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3u4s2S24RbVyFO70V5Bj-19" value="Open current flow &lt;br&gt;&quot;Apertura de tarjeta virtual&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="229" y="1680.33" as="sourcePoint" />
-            <mxPoint x="69" y="1680.33" as="targetPoint" />
+            <mxPoint x="229" y="1510.1599999999999" as="sourcePoint" />
+            <mxPoint x="69" y="1510.1599999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3u4s2S24RbVyFO70V5Bj-20" value="On click&amp;nbsp; option&amp;nbsp;&lt;br&gt;&quot;Seguros&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65" y="1754.1599999999999" as="sourcePoint" />
-            <mxPoint x="235" y="1754.1599999999999" as="targetPoint" />
+            <mxPoint x="65" y="1583.9899999999998" as="sourcePoint" />
+            <mxPoint x="235" y="1583.9899999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3u4s2S24RbVyFO70V5Bj-21" value="Open current flow &lt;br&gt;&quot;Seguros&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="229" y="1794.1599999999999" as="sourcePoint" />
-            <mxPoint x="69" y="1794.1599999999999" as="targetPoint" />
+            <mxPoint x="229" y="1623.9899999999998" as="sourcePoint" />
+            <mxPoint x="69" y="1623.9899999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3u4s2S24RbVyFO70V5Bj-22" value="On click&amp;nbsp; option&amp;nbsp;&lt;br&gt;&quot;SOAT&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65" y="1859.9999999999998" as="sourcePoint" />
-            <mxPoint x="235" y="1859.9999999999998" as="targetPoint" />
+            <mxPoint x="65" y="1689.8299999999997" as="sourcePoint" />
+            <mxPoint x="235" y="1689.8299999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3u4s2S24RbVyFO70V5Bj-23" value="Open current flow &lt;br&gt;&quot;SOAT&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="229" y="1899.9999999999998" as="sourcePoint" />
-            <mxPoint x="69" y="1899.9999999999998" as="targetPoint" />
+            <mxPoint x="229" y="1729.8299999999997" as="sourcePoint" />
+            <mxPoint x="69" y="1729.8299999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3u4s2S24RbVyFO70V5Bj-25" value="On click&amp;nbsp; option&amp;nbsp;&lt;br&gt;&quot;Nanocreditos&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65" y="1980" as="sourcePoint" />
-            <mxPoint x="235" y="1980" as="targetPoint" />
+            <mxPoint x="65" y="1809.83" as="sourcePoint" />
+            <mxPoint x="235" y="1809.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3u4s2S24RbVyFO70V5Bj-26" value="Open current flow &lt;br&gt;&quot;Nanocreditos&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="229" y="2020" as="sourcePoint" />
-            <mxPoint x="69" y="2020" as="targetPoint" />
+            <mxPoint x="229" y="1849.83" as="sourcePoint" />
+            <mxPoint x="69" y="1849.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3u4s2S24RbVyFO70V5Bj-27" value="On click&amp;nbsp; option&amp;nbsp;&lt;br&gt;&quot;Bolsillo de ahorro&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65" y="2090" as="sourcePoint" />
-            <mxPoint x="235" y="2090" as="targetPoint" />
+            <mxPoint x="65" y="1919.83" as="sourcePoint" />
+            <mxPoint x="235" y="1919.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3u4s2S24RbVyFO70V5Bj-28" value="Open current flow &lt;br&gt;&quot;Bolsillo de ahorro&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="229" y="2130" as="sourcePoint" />
-            <mxPoint x="69" y="2130" as="targetPoint" />
+            <mxPoint x="229" y="1959.83" as="sourcePoint" />
+            <mxPoint x="69" y="1959.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-29" value="Consume service get URL WebView&lt;br&gt;Mbaas" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="2140" as="sourcePoint" />
+            <mxPoint x="490" y="2140" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-30" value="Response URL WebView Mbaas" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="2177" as="sourcePoint" />
+            <mxPoint x="270" y="2177" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-31" value="Mbaas" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="670" y="20" width="100" height="2790" as="geometry" />
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="3u4s2S24RbVyFO70V5Bj-31">
+          <mxGeometry x="45" y="105" width="10" height="2685" as="geometry" />
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-33" value="Show WebView Mbaas" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="2230" as="sourcePoint" />
+            <mxPoint x="70" y="2230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-34" value="Receive PostMessage" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="2290" as="sourcePoint" />
+            <mxPoint x="270" y="2290.2599999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-35" value="Validate interface" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="2338" as="sourcePoint" />
+            <mxPoint x="65" y="2338.2599999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-36" value="Click button &quot;Finalizar&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="2700" as="sourcePoint" />
+            <mxPoint x="245" y="2700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-37" value="Receive PostMessage &quot;finalizar&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="2721" as="sourcePoint" />
+            <mxPoint x="280" y="2721" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-38" value="Receive PostMessage &quot;lastpage&quot;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="2390" as="sourcePoint" />
+            <mxPoint x="285" y="2390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-39" value="Hide back button" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="2420" as="sourcePoint" />
+            <mxPoint x="75" y="2420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-40" value="Go home app" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="2744" as="sourcePoint" />
+            <mxPoint x="70" y="2744" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-41" value="Click button back" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="2470" as="sourcePoint" />
+            <mxPoint x="245" y="2470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-42" value="Go home app" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="2514" as="sourcePoint" />
+            <mxPoint x="70" y="2514" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-43" value="Click button close" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="2580" as="sourcePoint" />
+            <mxPoint x="245" y="2580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3u4s2S24RbVyFO70V5Bj-44" value="Show popup exit application" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="2625" as="sourcePoint" />
+            <mxPoint x="70" y="2625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
